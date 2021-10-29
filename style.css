@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.main-nav-items {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.main-nav-items li {
+padding: 2rem 3rem;
+background-color: gray;
+}
